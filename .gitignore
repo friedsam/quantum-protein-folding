@@ -68,3 +68,10 @@ figures/
 
 
 
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+# Generated
+figures/

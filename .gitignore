@@ -58,11 +58,13 @@ conda-meta/
 # Figures/plots generated
 figures/
 
+#Papers
+/Papers
+
 # Ignore data archives
 *.zip
 *.tar.gz
 *.tar
 
-# Local environment file
-environment.yml
-requirements.txt
+
+

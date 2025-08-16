@@ -1,0 +1,14 @@
+name: hp-qpf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  # Day 2 (optional):
+  # - pip
+  # - pip:
+  #   - dimod
+  #   - dwave-samplers
